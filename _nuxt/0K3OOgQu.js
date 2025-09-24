@@ -1,0 +1,1 @@
+import{_ as t,c as o,a as r,o as s}from"#entry";const n={};function a(c,e){return s(),o("div",null,[...e[0]||(e[0]=[r("h1",null,"Product Details",-1)])])}const _=t(n,[["render",a]]);export{_ as default};

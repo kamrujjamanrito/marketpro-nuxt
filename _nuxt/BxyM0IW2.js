@@ -1,0 +1,1 @@
+import{p as s}from"#entry";const i=s("/images/thumbs/testimonials-img1.png"),m=s("/images/thumbs/testimonials-img2.png"),o=s("/images/thumbs/testimonials-img3.png"),a=s("/images/thumbs/testimonials-img4.png");export{i as _,m as a,o as b,a as c};
